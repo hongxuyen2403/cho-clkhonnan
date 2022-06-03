@@ -7,6 +7,6 @@ const CONFIG = {
     btnYes: 'không ăn
     btnNo: 'ăn sao không
     question:'vậy thi thôi, chiều cn đi ct kh chó đẻ`
-    btnReply: 'ok`
+    btnReply: 'okk`
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
